@@ -1,5 +1,4 @@
 apples
 cereal
 chicken
-spinach
 carrots
