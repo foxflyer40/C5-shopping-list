@@ -1,3 +1,5 @@
 apples
 oranges
 raisins
+spinach
+carrots
