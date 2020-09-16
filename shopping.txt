@@ -1,5 +1,5 @@
 apples
-oranges
-raisins
+cereal
+chicken
 spinach
 carrots
