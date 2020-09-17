@@ -1,6 +1,7 @@
 cereal
-chicken
+chicken -thighs
 pizza
 steak
 ice cream
 hot chocolate
+tortillas
