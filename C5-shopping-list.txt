@@ -1,3 +1,5 @@
+cereal
+chicken -thighs
 pizza
 steak
 ice cream
