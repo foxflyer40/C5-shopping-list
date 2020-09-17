@@ -1,6 +1,5 @@
-cereal
-chicken
 pizza
 steak
 ice cream
 hot chocolate
+root beer
