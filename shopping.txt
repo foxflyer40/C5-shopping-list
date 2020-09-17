@@ -2,3 +2,5 @@ apples
 cereal
 chicken
 carrots
+pizza
+steak
