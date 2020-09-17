@@ -4,3 +4,4 @@ carrots
 pizza
 steak
 ice cream
+hot chocolate
