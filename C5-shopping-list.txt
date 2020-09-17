@@ -1,6 +1,6 @@
-apples
 cereal
 chicken
 carrots
 pizza
 steak
+ice cream
